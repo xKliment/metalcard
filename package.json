@@ -16,10 +16,10 @@
     "@types/react-dom": "18.2.7",
     "autoprefixer": "10.4.15",
     "eslint": "8.49.0",
-    "eslint-config-next": "^14.2.5",  // Match with the Next.js stable version
-    "next": "14.2.5",  // Use a stable Next.js version
-    "react": "^18.2.0",  // Use a stable React version
-    "react-dom": "^18.2.0",  // Use a stable React DOM version
+    "eslint-config-next": "^14.2.5",
+    "next": "14.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "typescript": "5.2.2"
   }
 }
